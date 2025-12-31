@@ -1,0 +1,3 @@
+airbyte-cdk
+azure-storage-file-datalake
+azure-identity
